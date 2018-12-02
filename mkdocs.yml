@@ -3,6 +3,7 @@ site_name: orvice's homepage
 
 pages:
     - Home: index.md
+    - Works: works.md
 
 theme:
   name: 'material'
