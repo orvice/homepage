@@ -15,19 +15,19 @@
 
 #### ddns
 
-ddns，目前支持Cloudflare.
+ddns，目前支持Cloudflare. [Github](https://github.com/orvice/ddns)
 
-[Github](https://github.com/orvice/ddns)
+
+#### weeon
+
+一些golang公共库代码。[Github](https://github.com/weeon)
 
 
 #### Deploy-cli
 
-用于gitlab ci的一个部署工具。
+用于gitlab ci的一个部署工具。 [Github](https://github.com/weeon/deploy-cli)
 
-[Github](https://github.com/weeon/deploy-cli)
 
 #### v2ray mu
 
-用于Mu api的v2ray多用户工具。
-
-[Github](https://github.com/orvice/v2ray-mu)
+用于Mu api的v2ray多用户工具。 [Github](https://github.com/orvice/v2ray-mu)
