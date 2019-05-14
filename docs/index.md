@@ -1,6 +1,10 @@
 # orvice's homepaage
 
-访问 [Blog](https://blog.orx.me/).
+欢迎阁下访问orvice的个人主页。
+
+访问 [我的长草的Blog](https://blog.orx.me/).
+
+[查看我的一些works](/works)
 
 
 
