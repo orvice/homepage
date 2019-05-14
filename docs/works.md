@@ -5,7 +5,7 @@
 
 使用golang写的服务器监控。
 
-[Github](https://blackcat.orx.me) [Demo](https://monitor.loxcloud.com)
+[Doc](https://blackcat.orx.me) [Github](https://blackcat.orx.me) [Demo](https://monitor.loxcloud.com)
 
 #### LoxCloud
 
