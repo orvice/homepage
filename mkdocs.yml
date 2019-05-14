@@ -4,6 +4,7 @@ site_name: orvice's homepage
 pages:
     - Home: index.md
     - Works: works.md
+    - Sites: sites.md
 
 theme:
   name: 'material'
