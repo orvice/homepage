@@ -25,3 +25,9 @@ ddns，目前支持Cloudflare.
 用于gitlab ci的一个部署工具。
 
 [Github](https://github.com/weeon/deploy-cli)
+
+#### v2ray mu
+
+用于Mu api的v2ray多用户工具。
+
+[Github](https://github.com/orvice/v2ray-mu)
